@@ -64,7 +64,7 @@ ermbTr_CP002121	0	0	.	.	Erythromycin and Clindamycin resistance
 rplD_AE007317	1	1	.	.	Linezolid resistance (due to mutation not presence of the genes)
 rplV_AE007317	1	1	.	.	Linezolid resistance (due to mutation not presence of the genes)
 rpoB_AE007317	1	0	.	.	rifampicin resistance
-23S_1_AE007317	0	0	.	.	"Other resistance due to mutations: A2060C, A2061G, C2613G"
+23S_1_AE007317	0	1	.	.	"Other resistance due to mutations: A2060C, A2061G, C2613G"
 vanA_KM235680	1	0	.	.	Vacomycin resistance
 vanB_KC489787	1	0	.	.	Vacomycin resistance
 vanC_JX435778	1	0	.	.	Vacomycin resistance
