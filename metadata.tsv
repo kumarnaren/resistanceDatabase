@@ -39,6 +39,7 @@ tetM_M85225	1	0	.	.	Tetracycline resistance
 tetS_FN555436	1	0	.	.	Tetracycline resistance
 tetM_MH283017	1	0	.	.	tetracycline resistance
 folA_AE007317	1	1	I100L	.	Trimethoprim
+folA_AE007317_80-100	1	1	I20L	.	Trimethoprim-I100L
 folP_AE007317	1	1	.	.	Sulfamethoxazole resistance on if insertions in 56-67 amino acids
 gyrA_AE007317	1	1	S81F	.	Fluoroquinolone
 gyrA_AE007317	1	1	S81Y	.	Fluoroquinolone
