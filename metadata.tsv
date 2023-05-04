@@ -1,18 +1,18 @@
 reference	coding_yes(1)_no(0)	pr/ab(0)_var(1)	description of the variant	Group	FreeText_Drug
 aph_3prime_III_1_M26832	1	0	.	.	Kanamycin resistance
-ermB_1_JN899585	1	0	.	.	Macrolide resistance
-ermB_10_U86375	1	0	.	.	Macrolide resistance
-ermB_16_X82819	1	0	.	.	Macrolide resistance
-ermB_20_AF109075	1	0	.	.	Macrolide resistance
-ermC_13_M13761	1	0	.	.	Macrolide resistance
+ermB_1_JN899585	1	0	.	.	Erythromycin and Clindamycin resistance
+ermB_10_U86375	1	0	.	.	Erythromycin and Clindamycin resistance
+ermB_16_X82819	1	0	.	.	Erythromycin and Clindamycin resistance
+ermB_20_AF109075	1	0	.	.	Erythromycin and Clindamycin resistance
+ermC_13_M13761	1	0	.	.	Erythromycin and Clindamycin resistance
 cat_5_U35036	1	0	.	.	Chloramphenicol resistance
 catpC194_1_NC_002013	1	0	.	.	Chloramphenicol resistance
 catpC233_1_AY355285	1	0	.	.	Chloramphenicol resistance
 catQ_1_M55620	1	0	.	.	Chloramphenicol resistance
-msrD_2_AF274302	1	0	.	.	Macrolide resistance
-msrD_3_AF227520	1	0	.	.	Macrolide resistance
-mefA_10_AF376746	1	0	.	.	Macrolide resistance
-mefE_AE007317	1	0	.	.	Macrolide resistance
+msrD_2_AF274302	1	0	.	.	Erythromycin resistance
+msrD_3_AF227520	1	0	.	.	Erythromycin resistance
+mefA_10_AF376746	1	0	.	.	Erythromycin resistance
+mefE_AE007317	1	0	.	.	Erythromycin resistance
 tetM_1_X92947	1	0	.	.	Tetracycline resistance
 tetM_12_FR671418	1	0	.	.	Tetracycline resistance
 tetK_4_U38428	1	0	.	.	Tetracycline resistance
@@ -23,7 +23,8 @@ tetM_5_U58985	1	0	.	.	Tetracycline resistance
 tetM_8_X04388	1	0	.	.	Tetracycline resistance
 tetS_M	1	0	.	.	Tetracycline resistance
 tetS_M_MH283012	1	0	.	.	Tetracycline resistance
-tetApBp_L20800	1	0	.	.	Tetracycline resistance
+tetAp_L20800	1	0	.	.	Tetracycline resistance
+tetBp_L20800	1	0	.	.	Tetracycline resistance
 tetAQ2_Z21523	1	0	.	.	Tetracycline resistance
 tetS_FN555436	1	0	.	.	Tetracycline resistance
 tetT_L42544	1	0	.	.	Tetracycline resistance
@@ -37,8 +38,9 @@ tetS_M_HM367711	1	0	.	.	Tetracycline resistance
 tetS_M_AY534326	1	0	.	.	Tetracycline resistance
 tetM_M85225	1	0	.	.	Tetracycline resistance
 tetS_FN555436	1	0	.	.	Tetracycline resistance
+tetM_MH283017	1	0	.	.	tetracycline resistance
 folA_AE007317	1	1	I100L	.	Trimethoprim
-folP_AE007317	1	0	.	.	Sulfamethoxazole resistance on if insertions in 56-67 amino acids
+folP_AE007317	1	1	.	.	Sulfamethoxazole resistance on if insertions in 56-67 amino acids
 gyrA_AE007317	1	1	S81F	.	Fluoroquinolone
 gyrA_AE007317	1	1	S81Y	.	Fluoroquinolone
 gyrA_AE007317	1	1	S81C	.	Fluoroquinolone
@@ -58,15 +60,16 @@ parE_AE007317	1	1	D435N	.	Fluoroquinolone
 parE_AE007317	1	1	D435H	.	Fluoroquinolone
 parE_AE007317	1	1	P454S	.	Fluoroquinolone
 tetO_Y07780	1	0	.	.	Tetracycline resistance
-ermBups_HG799494	0	0	.	.	macrolide resistance
-ermbTr_CP002121	0	0	.	.	macrolide resistance
-rplD_AE007317	1	0	.	.	macrolide resistance
-rplV_AE007317	1	0	.	.	macrolide resistance
-rpoB_AE007317	1	0	.	.	rifampicin resistance
-23S_1_AE007317	0	0	.	.	"Other resistance due to mutations: A2060C, A2061G, C2613G"
+ermBups_HG799494	0	0	.	.	Erythromycin and Clindamycin resistance
+ermbTr_CP002121	0	0	.	.	Erythromycin and Clindamycin resistance
+rplD_AE007317	1	1	.	.	Linezolid resistance (due to mutation not presence of the genes)
+rplV_AE007317	1	1	.	.	Linezolid resistance (due to mutation not presence of the genes)
+rpoB_AE007317	0	1	.	.	rifampicin resistance
+23S_1_AE007317	0	1	.	.	"Other resistance due to mutations: A2060C, A2061G, C2613G"
 vanA_KM235680	1	0	.	.	Vacomycin resistance
 vanB_KC489787	1	0	.	.	Vacomycin resistance
 vanC_JX435778	1	0	.	.	Vacomycin resistance
 vanD_EU999036	1	0	.	.	Vacomycin resistance
 vanE_FJ872411	1	0	.	.	Vacomycin resistance
 vanG_KF704242	1	0	.	.	Vacomycin resistance
+otrA_X53401	1	0	.	.	Tetracycline resistance
