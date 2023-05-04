@@ -62,8 +62,7 @@ parE_AE007317	1	1	P454S	.	Fluoroquinolone
 tetO_Y07780	1	0	.	.	Tetracycline resistance
 ermBups_HG799494	0	0	.	.	Erythromycin and Clindamycin resistance
 ermbTr_CP002121	0	0	.	.	Erythromycin and Clindamycin resistance
-rplD_AE007317	1	1	.	.	Linezolid resistance (due to mutation not presence of the genes)
-rplV_AE007317	1	1	.	.	Linezolid resistance (due to mutation not presence of the genes)
+rplD_AE007317	1	1	.	.	Linezolid resistance (deletion within the L4 region of the gene)
 rpoB_AE007317	0	1	.	.	rifampicin resistance
 vanA_KM235680	1	0	.	.	Vacomycin resistance
 vanB_KC489787	1	0	.	.	Vacomycin resistance
