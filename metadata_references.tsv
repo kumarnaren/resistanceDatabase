@@ -1,0 +1,80 @@
+reference	coding_yes(1)_no(0)	pr/ab(0)_var(1)	description of the variant	Group	FreeText_Drug	Reference	Drug
+aph_3prime_III_1_M26832	1	0	.	.	Kanamycin resistance	Steph_list	KAN
+ermB_1_JN899585	1	0	.	.	Erythromycin and Clindamycin resistance	Steph_list	ERY CLI
+ermB_10_U86375	1	0	.	.	Erythromycin and Clindamycin resistance	Steph_list	ERY CLI
+ermB_16_X82819	1	0	.	.	Erythromycin and Clindamycin resistance	Steph_list	ERY CLI
+ermB_20_AF109075	1	0	.	.	Erythromycin and Clindamycin resistance	Steph_list	ERY CLI
+ermC_13_M13761	1	0	.	.	Erythromycin and Clindamycin resistance	Steph_list	ERY CLI
+cat_5_U35036	1	0	.	.	Chloramphenicol resistance	Steph_list	CHL
+catpC194_1_NC_002013	1	0	.	.	Chloramphenicol resistance	Steph_list	CHL
+catpC233_1_AY355285	1	0	.	.	Chloramphenicol resistance	Steph_list	CHL
+catQ_1_M55620	1	0	.	.	Chloramphenicol resistance	Steph_list	CHL
+msrD_2_AF274302	1	0	.	.	Erythromycin resistance	Steph_list	ERY
+msrD_3_AF227520	1	0	.	.	Erythromycin resistance	Steph_list	ERY
+mefA_10_AF376746	1	0	.	.	Erythromycin resistance	Steph_list	ERY
+mefE_AE007317	1	0	.	.	Erythromycin resistance	Steph_list	ERY
+tetM_1_X92947	1	0	.	.	Tetracycline resistance	Steph_list	TET
+tetM_12_FR671418	1	0	.	.	Tetracycline resistance	Steph_list	TET
+tetK_4_U38428	1	0	.	.	Tetracycline resistance	Steph_list	TET
+tetM_13_AM990992	1	0	.	.	Tetracycline resistance	Steph_list	TET
+tetM_2_X90939	1	0	.	.	Tetracycline resistance	Steph_list	TET
+tetM_4_X75073	1	0	.	.	Tetracycline resistance	Steph_list	TET
+tetM_5_U58985	1	0	.	.	Tetracycline resistance	Steph_list	TET
+tetM_8_X04388	1	0	.	.	Tetracycline resistance	Steph_list	TET
+tetS_M	1	0	.	.	Tetracycline resistance	Steph_list	TET
+tetS_M_MH283012	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetAp_L20800	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetBp_L20800	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetAQ2_Z21523	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetS_FN555436	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetT_L42544	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetW_AJ222769	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tet32_AJ295238	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tet36_AJ514254	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tet44_FN594949	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tet58_KY887560	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tet_M74049	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetS_M_HM367711	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetS_M_AY534326	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetM_M85225	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetS_FN555436	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+tetM_MH283017	1	0	.	.	tetracycline resistance	PMID: 31789384	TET
+folA_AE007317	1	1	I100L	.	"proteinID-AAL00232.1, Trimethoprim"	Steph_list	TMP
+folP_AE007317	1	1	.	.	"proteinID-AAK99071.1, Sulfamethoxazole resistance on if insertions in 56-67 amino acids"	Steph_list	SMX
+gyrA_AE007317	1	1	S81F	.	Fluoroquinolone	Steph_list	FLQ
+gyrA_AE007317	1	1	S81Y	.	Fluoroquinolone	Steph_list	FLQ
+gyrA_AE007317	1	1	S81C	.	Fluoroquinolone	Steph_list	FLQ
+gyrA_AE007317	1	1	S81I	.	Fluoroquinolone	Steph_list	FLQ
+gyrA_AE007317	1	1	E85K	.	Fluoroquinolone	Steph_list	FLQ
+gyrA_AE007317	1	1	Q118A	.	Fluoroquinolone	Steph_list	FLQ
+gyrB_AE007317	1	1	E474K	.	Fluoroquinolone	Steph_list	FLQ
+parC_AE007317	1	1	A63T	.	Fluoroquinolone	Steph_list	FLQ
+parC_AE007317	1	1	S79F	.	Fluoroquinolone	Steph_list	FLQ
+parC_AE007317	1	1	S79Y	.	Fluoroquinolone	Steph_list	FLQ
+parC_AE007317	1	1	S79L	.	Fluoroquinolone	Steph_list	FLQ
+parC_AE007317	1	1	S79F	.	Fluoroquinolone	Steph_list	FLQ
+parC_AE007317	1	1	D83G	.	Fluoroquinolone	Steph_list	FLQ
+parC_AE007317	1	1	D83N	.	Fluoroquinolone	Steph_list	FLQ
+parE_AE007317	1	1	E474K	.	Fluoroquinolone	Steph_list	FLQ
+parE_AE007317	1	1	D435N	.	Fluoroquinolone	Steph_list	FLQ
+parE_AE007317	1	1	D435H	.	Fluoroquinolone	Steph_list	FLQ
+parE_AE007317	1	1	P454S	.	Fluoroquinolone	Steph_list	FLQ
+tetO_Y07780	1	0	.	.	Tetracycline resistance	Steph_list	TET
+ermBups_HG799494	0	0	.	.	Erythromycin and Clindamycin resistance	Steph_list	ERY
+ermbTr_CP002121	0	0	.	.	Erythromycin and Clindamycin resistance	Steph_list	ERY
+rplD_AE007317	1	1	.	.	Linezolid resistance (deletion within the L4 region of the gene )	PMID:24492357	-
+rpoB_AE007317	1	1	D489E	.	rifampicin resistance -D415E	PMID:10508007	RIF
+rpoB_AE007317	1	1	H499N	.	rifampicin resistance -H425N	PMID:10508007	RIF
+rpoB_AE007317	1	1	D489N	.	rifampicin resistance -H415N	PMID:10508007	RIF
+vanB_KC489787	1	0	.	.	Vacomycin resistance	steph_list	VAN
+vanD_EU999036	1	0	.	.	Vacomycin resistance	steph_list	VAN
+vanE_FJ872411	1	0	.	.	Vacomycin resistance	steph_list	VAN
+vanG_KF704242	1	0	.	.	Vacomycin resistance	steph_list	VAN
+otrA_X53401	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
+vanA_M97297	1	0	.	.	Vacomycin resistance (E.faecium)	CARD	TET
+vanC_AF162694	1	0	.	.	Vacomycin resistance (E.gallinarum)	CARD	TET
+23S_NZ_CP018347	0	1	A2114G	.	Macrolide:32347-35250	amrfindrPlus	ERY
+23S_NZ_CP018347	0	1	A2115G	.	Macrolide:32347-35250	amrfindrPlus	ERY
+23S_NZ_CP018347	0	1	A2118G	.	Macrolide/Streptogramin:32347-35250	amrfindrPlus	ERY
+23S_NZ_CP018347	0	1	C2630A	.	Macrolide:32347-35250	amrfindrPlus	ERY
+23S_NZ_CP018347	0	1	C2630G	.	Macrolide:32347-35250	amrfindrPlus	ERY
