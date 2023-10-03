@@ -40,7 +40,7 @@ tetM_M85225	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
 tetS_FN555436	1	0	.	.	Tetracycline resistance	PMID: 31789384	TET
 tetM_MH283017	1	0	.	.	tetracycline resistance	PMID: 31789384	TET
 folA_AE007317	1	1	I100L	.	"proteinID-AAL00232.1, Trimethoprim"	Steph_list	TMP
-folP_AE007317	1	1	.	.	"proteinID-AAK99071.1, Sulfamethoxazole resistance on if insertions in 56-67 amino acids"	Steph_list	SMX
+folP_AE007317	1	1	.	.	"proteinID-AAK99071.1, Sulfamethoxazole resistance on if insertions in 56-69 amino acids"	Steph_list:PMID-27542334	SMX
 gyrA_AE007317	1	1	S81F	.	Fluoroquinolone	Steph_list	FLQ
 gyrA_AE007317	1	1	S81Y	.	Fluoroquinolone	Steph_list	FLQ
 gyrA_AE007317	1	1	S81C	.	Fluoroquinolone	Steph_list	FLQ
@@ -80,3 +80,9 @@ vanC_AF162694	1	0	.	.	Vacomycin resistance (E.gallinarum)	CARD	TET
 23S_NZ_CP018347	0	1	C2630G	.	Macrolide:32347-35250	amrfindrPlus	ERY
 rrgA_EF560637	1	0	.	.	 Pili-1-(RlrA pilus-1-2279-4939)	BenCDCGithub	PILI-1
 pitB_GU256423	1	0	.	.	 Pili-2-(pitB pilus-3504-4736)	BenCDCGithub	PILI-2
+folA4_14410_4_33	1	1	I100L	.	Trimethoprim	Steph_list	TMP
+folA3_29330_2_374	1	1	I100L	.	Trimethoprim	Steph_list	TMP
+folA2_29594_2_181	1	1	I100L	.	Trimethoprim	Steph_list	TMP
+folA5_21127_2_117	1	1	I100L	.	Trimethoprim	Steph_list	TMP
+folA6_28042_2_176	1	1	I100L	.	Trimethoprim	Steph_list	TMP
+folA7_28790_1_77	1	1	I100L	.	Trimethoprim	Steph_list	TMP
